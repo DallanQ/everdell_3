@@ -1,6 +1,6 @@
 ## Set Up (PAGE 5)
 1. Place the board on the table. Place the Ever Tree on the stump at the top of the board.
-   
+
 2. Place the twigs, resin, pebbles, and berries in piles along the bank of the river. Place the point tokens and occupied tokens beside the board.
    
 3. Shuffle the Forest cards and place them on the forest clearings. Use 3 cards for two players, or 4 cards for three or four players. Put the remaining cards back in the box.
