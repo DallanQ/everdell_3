@@ -1,9 +1,9 @@
-## Set Up (page 5)
+## SET UP (page 5)
 
 1. Place the board on the table. Place the Ever Tree on the stump at the top of the board.
 
 2. Place the twigs, resin, pebbles, and berries in piles along the bank of the river. Place the point tokens and occupied tokens beside the board.
-   
+
 3. Shuffle the Forest cards and place them on the forest clearings. Use 3 cards for two players, or 4 cards for three or four players. Put the remaining cards back in the box.
 
 4. Place the 4 basic Event tiles along the river, then shuffle the special Event cards and place 4 special Events on the lower branches of the Ever Tree. Put the remaining special Events back in the box.
@@ -16,22 +16,23 @@
 
 The most humble player goes first.
 
-> Player 1 takes 5 cards<br>
+<!-- > Player 1 takes 5 cards<br>
 > Player 2 takes 6 cards<br>
 > Player 3 takes 7 cards<br>
 > Player 4 takes 8 cards<br>
 
-There is no limit to the amount of resources a player may have during the game. If any of the resources run out, use something else as a substitute.The facedown discard pile will be formed here(The empty space in game board).
+There is no limit to the amount of resources a player may have during the game. If any of the resources run out, use something else as a substitute.The facedown discard pile will be formed here(The empty space in game board). -->
 
-## How To Play (PAGE 7)
+## HOW TO PLAY (page 7)
 
 Play proceeds clockwise. You will take turns performing one of the following actions. These actions may be performed in any order, but only one action may be taken per turn.
 
-- Place A Worker<br>
+<!-- - Place A Worker<br>
 - Or Play A Card<br>
-- Or Prepare For Season
+- Or Prepare For Season -->
 
-### PLACE A WORKER
+### PLACE A WORKER (page 7)
+
 Your workers are necessary for the expansion and success of your city. You will be deploying them to various locations in Everdell in order to gather resources, draw more cards, host events, or perhaps to embark on a journey.
 
 There are two types of locations: exclusive and shared (portrayed with an open encircling ring). Only 1 worker may visit an exclusive location. Multiple workers, even of the same color, may visit a shared location.
@@ -40,26 +41,34 @@ To visit a location, place one of your workers on any available symbol and immed
 
 Example: Placing a worker on the second basic action space gains the player two twigs, and a card drawn from the deck.
 
-### Locations To Visit Include
+#### LOCATIONS TO VISIT INCLUDE (page 7)
 
-#### 1. Basic Action Spaces
-#### 2. Forest Locations
+#### Basic Action Spaces (page 7)
+
+#### Forest Locations (page 7)
+
 The placement locations are only used in a four-player game. However, you may not place 2 of your own workers on a single Forest location.
 
-#### 3. Destination Cards (PAGE 8)
-You may place a worker on any Destination card in your city, or on a Destination card in another city that has an symbol, in which case the owner of the Destination gains 1 point token from the supply.<br>
+#### Destination Cards (page 8)
+
+You may place a worker on any Destination card in your city, or on a Destination card in another city that has an symbol, in which case the owner of the Destination gains 1 point token from the supply.
+
 Example: If another player places their worker on the Post Office, the owner gains 1 point.
 
-#### 4. Haven
-The Haven location is a shared space. There is no limit to the amount of workers that may be placed on it, even of the same color. By going here, you may discard any number of cards from your hand, and gain 1 of any resource for every 2 cards you discard.
+#### Events (page 8)
 
-#### 5. Events
-Grand Tour Event requires your city to contain 3 destination cards.<br>
-Woodcarver, Chapel requires your city to contain woodcover and chapel.
 You may also place 1 of your workers on any remaining basic Event or special Event to achieve it. To achieve the Event, you must meet all the listed requirements on the Event, and must pay any resources at the time you place your worker there. Only one player may achieve a specific Event. You have to be able to achieve the Event to place a worker on the Event.
 Achieved Events should be placed beside your city for scoring at the end of the game.
 
-#### 6. Journey
+<!-- Grand Tour Event requires your city to contain 3 destination cards.<br>
+Woodcarver, Chapel requires your city to contain woodcover and chapel. -->
+
+#### Haven (page 8)
+
+The Haven location is a shared space. There is no limit to the amount of workers that may be placed on it, even of the same color. By going here, you may discard any number of cards from your hand, and gain 1 of any resource for every 2 cards you discard.
+
+#### Journey (page 8)
+
 In autumn only, you may send a worker on a journey. You must discard cards equal to the listed points of the Journey location you choose. The 5-point, 4-point, and 3-point locations are exclusive, and the 2-point location is shared. The deployed worker is worth the listed points at the end of the game.
 
 ## PLAY A CARD (PAGE 9)
