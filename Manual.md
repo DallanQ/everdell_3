@@ -1,17 +1,19 @@
-## Set Up (PAGE 5)
+## Set Up (page 5)
+
 1. Place the board on the table. Place the Ever Tree on the stump at the top of the board.
 
 2. Place the twigs, resin, pebbles, and berries in piles along the bank of the river. Place the point tokens and occupied tokens beside the board.
    
 3. Shuffle the Forest cards and place them on the forest clearings. Use 3 cards for two players, or 4 cards for three or four players. Put the remaining cards back in the box.
 
-4.   Place the 4 basic Event tiles along the river, then shuffle the special Event cards and place 4 special Events on the lower branches of the Ever Tree. Put the remaining special Events back in the box.
+4. Place the 4 basic Event tiles along the river, then shuffle the special Event cards and place 4 special Events on the lower branches of the Ever Tree. Put the remaining special Events back in the box.
    
 5. Shuffle the main deck and randomly place 8 cards faceup in the Meadow. Place the deck inside the Ever Tree.
  
 6. Each player chooses a color and starts with 2 workers of that color. The first player will draw 5 cards from the deck, the second player 6 cards, the third player 7 cards, and the fourth player 8 cards.
    
-7. Each player places their 4 other workers on the upper branches of the Ever Tree: 1 worker on spring, 1 on summer, and 2 on autumn.<br>
+7. Each player places their 4 other workers on the upper branches of the Ever Tree: 1 worker on spring, 1 on summer, and 2 on autumn.
+
 The most humble player goes first.
 
 > Player 1 takes 5 cards<br>
