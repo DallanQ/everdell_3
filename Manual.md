@@ -42,6 +42,8 @@ Example: Placing a worker on the second basic action space gains the player two 
 
 ##### Basic Action Spaces (page 7)
 
+> Basic action spaces look like paw prints that lie along a path
+
 ##### Forest Locations (page 7)
 
 The placement locations are only used in a four-player game. However, you may not place 2 of your own workers on a single Forest location.
