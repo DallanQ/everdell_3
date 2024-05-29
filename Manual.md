@@ -40,29 +40,29 @@ Example: Placing a worker on the second basic action space gains the player two 
 
 #### LOCATIONS TO VISIT INCLUDE (page 7)
 
-#### Basic Action Spaces (page 7)
+##### Basic Action Spaces (page 7)
 
-#### Forest Locations (page 7)
+##### Forest Locations (page 7)
 
 The placement locations are only used in a four-player game. However, you may not place 2 of your own workers on a single Forest location.
 
-#### Destination Cards (page 8)
+##### Destination Cards (page 8)
 
 You may place a worker on any Destination card in your city, or on a Destination card in another city that has an symbol, in which case the owner of the Destination gains 1 point token from the supply.
 
 Example: If another player places their worker on the Post Office, the owner gains 1 point.
 
-#### Events (page 8)
+##### Events (page 8)
 
 You may also place 1 of your workers on any remaining basic Event or special Event to achieve it. To achieve the Event, you must meet all the listed requirements on the Event, and must pay any resources at the time you place your worker there. Only one player may achieve a specific Event. You have to be able to achieve the Event to place a worker on the Event.
 
 Achieved Events should be placed beside your city for scoring at the end of the game.
 
-#### Haven (page 8)
+##### Haven (page 8)
 
 The Haven location is a shared space. There is no limit to the amount of workers that may be placed on it, even of the same color. By going here, you may discard any number of cards from your hand, and gain 1 of any resource for every 2 cards you discard.
 
-#### Journey (page 8)
+##### Journey (page 8)
 
 In autumn only, you may send a worker on a journey. You must discard cards equal to the listed points of the Journey location you choose. The 5-point, 4-point, and 3-point locations are exclusive, and the 2-point location is shared. The deployed worker is worth the listed points at the end of the game.
 
