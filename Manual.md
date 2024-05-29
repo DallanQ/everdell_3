@@ -20,7 +20,7 @@ There is no limit to the amount of resources a player may have during the game. 
 
 The facedown discard pile will be formed here.
 
-> The vacant area at the bottom center of the game board.
+> The discard pile is in the vacant area at the bottom center of the game board.
 
 ## HOW TO PLAY (page 7)
 
@@ -57,9 +57,6 @@ Example: If another player places their worker on the Post Office, the owner gai
 You may also place 1 of your workers on any remaining basic Event or special Event to achieve it. To achieve the Event, you must meet all the listed requirements on the Event, and must pay any resources at the time you place your worker there. Only one player may achieve a specific Event. You have to be able to achieve the Event to place a worker on the Event.
 
 Achieved Events should be placed beside your city for scoring at the end of the game.
-
-<!-- Grand Tour Event requires your city to contain 3 destination cards.<br>
-Woodcarver, Chapel requires your city to contain woodcover and chapel. -->
 
 #### Haven (page 8)
 
