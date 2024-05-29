@@ -64,18 +64,23 @@ The Haven location is a shared space. There is no limit to the amount of workers
 
 In autumn only, you may send a worker on a journey. You must discard cards equal to the listed points of the Journey location you choose. The 5-point, 4-point, and 3-point locations are exclusive, and the 2-point location is shared. The deployed worker is worth the listed points at the end of the game.
 
-## PLAY A CARD (PAGE 9)
+### PLAY A CARD (PAGE 9)
+
 You may play one card. To play a card, you must pay the listed requirements into the general supply. Cards may be played from either the Meadow cards or from your hand.
 
 You will be playing these cards in front of you to form your city. There are two types of cards in the game: Critters and Constructions. You may have multiple copies of any Common card in your city, but you may only have one specific copy of any Unique card.
 
+#### Critters (page 9)
+
 You may pay the required cost in berries to play the Critter card, or if the Construction listed in the top left of the Critter card is already in your city, you may play the Critter card without paying the cost in berries.
 
-<b>Important:</b> When playing a Critter for free by using the related Construction, place an "occupied" token on the Construction. You may only do this once per Construction.
+Important: When playing a Critter for free by using the related Construction, place an "occupied" token on the Construction. You may only do this once per Construction.
 
-### City (PAGE 10)
+#### City (page 10)
+
 Your city has a maximum of 15 spaces to play cards into. Each card takes up one space. Recommended layout is 3 rows with 5 cards in each. Event cards do not count against this 15 card limit.
-#### Card Types
+
+#### Card Types (page 10)
 
 - Tan Traveler: Activates once immediately when played. It never activates again.
 
@@ -87,7 +92,7 @@ Your city has a maximum of 15 spaces to play cards into. Each card takes up one 
 
 - Purple Prosperity: Worth the base points and the listed bonus points at the end of the game.
 
-#### Drawing Cards
+#### Drawing Cards (page 10)
 
 Always draw cards from the deck, unless specifically told to draw them from the Meadow cards.
 
@@ -97,10 +102,11 @@ If a Meadow card is played, immediately replace it with a new card from the draw
 
 If the deck ever runs out, shuffle the discard pile to form a new deck.
 
-> Gain: take listed resources or point tokens from the general supply.<br>
-> Pay: place listed resources from your supply into the general supply.
+<!-- > Gain: take listed resources or point tokens from the general supply.
 
-## Prepare For Season (PAGE 11)
+> Pay: place listed resources from your supply into the general supply. -->
+
+### PREPARE FOR SEASON (page 11)
 
 Thematically the game begins in late winter and ends as the next winter approaches. Autumn is the last Prepare for Season action you may perform in the game.
 
@@ -116,9 +122,7 @@ In autumn, you gain 2 workers and activate all green Production cards in your ci
 
 When preparing for the next season, new workers from the Ever Tree join your growing city. Gain your matching worker and activate the next season's listed bonus.
 
- 
-
-## End Game (PAGE 13)
+## End Game (page 13)
 
 When you cannot perform any more actions (or do not wish to), you have finished the game and must pass. If a player has passed, they cannot be given any cards or resources. If cards or resources have to be given to a player and all other players have passed, discard instead.
 
@@ -129,13 +133,25 @@ You may find it easiest to add up the base value of each card, then come back an
 If there is a tie, the player who achieved the most Events wins. If there is still a tie, the player with the most leftover resources is the winner.
 
 ### SCORING EXAMPLE (PAGE 14)
-Base points for cards: 22 <br>Point tokens: 14<br>Prosperity card bonus points: 10 (3 for Wife, 2 for Architect, 5 for King)<br> Journey points: 4 <br> Events: 12 (6 for Performer in Residence, 3 for Ministering to Miscreants, 3 for Grand Tour)<br>
+
+Base points for cards: 22
+
+Point tokens: 14
+
+Prosperity card bonus points: 10 (3 for Wife, 2 for Architect, 5 for King)
+
+Journey points: 4
+
+Events: 12 (6 for Performer in Residence, 3 for Ministering to Miscreants, 3 for Grand Tour)
+
 Total: 62
 
-## SOLO RULES (PAGE 15)
+## SOLO RULES (page 15)
+
 When playing Everdell solo, you will be competing against a cantankerous old rodent known as Rugwort, and his pack of rowdy, rambunctious, rat ruffians. He will be returning to Everdell for three years in a row, each time bearing a new title of nastiness. You must find a way to overcome his dastardly tricks and rid Everdell of his filth once and for all!
 
-### Year One: "Rugwort the Rascal"
+### Year One: "Rugwort the Rascal" (page 15)
+
 Select a player color for Rugwort (he prefers black) and setup the game according to the two-player setup. You have a starting hand of 5 cards, and Rugwort does not have a hand of cards.
 
 Take one of Rugwort's workers and place it on the top-left Forest card, blocking it. Place his other worker on the 3 twig action space, blocking it.
@@ -146,27 +162,30 @@ Any time after you play a card, Rugwort gets to play a card. If you played a Mea
 
 After you have performed the Prepare for Season action, Rugwort immediately performs his Prepare for Season action, which consists of these steps:
 
-1) Check to see if he has enough of the colored cards in his city to achieve any of the four basic Events. If so, place that Event(s) in his city.
+1. Check to see if he has enough of the colored cards in his city to achieve any of the four basic Events. If so, place that Event(s) in his city.
 
-2) Take his new worker and place it on the #1 Meadow card (#2 for summer, and #3 & #4 for autumn), so by the end of the game he will have a worker on the top 4 Meadow cards. You cannot play these cards anymore, but Rugwort still can.
+2. Take his new worker and place it on the #1 Meadow card (#2 for summer, and #3 & #4 for autumn), so by the end of the game he will have a worker on the top 4 Meadow cards. You cannot play these cards anymore, but Rugwort still can.
 
-3) Moving counter-clockwise, move his worker to the next Forest card.
+3. Moving counter-clockwise, move his worker to the next Forest card.
 
 During the spring Prepare for Season action, move his worker from the 3 twigs location to the 2 resin location. During summer, move his worker to the 1 pebble location. During autumn, move his worker to the 1 berry and 1 card location.
 
 In autumn, remove his worker from the 3rd Forest tile and place it instead on the 3-point Journey space.
 
-### Scoring
+### Scoring (page 15)
+
 Rugwort will score: 2 points per card in his city (3 points for each purple Prosperity card), 3 points for each basic Event he achieved, 3 points for each special Event that you did not achieve, 3 points for his worker on Journey, and any point tokens that you gave him.
 
-### Year Two: "Rugwort the Rotten"
+### Year Two: "Rugwort the Rotten" (page 16)
+
 Same rules as Year One with these additional rules:
 
 Place his worker on the 4-point Journey space instead of the 3.
 
 Rugwort gains 6 points for every special Event that you did not achieve, instead of 3.
 
-### Year Three: "Rugwort the Rapscallion"
+### Year Three: "Rugwort the Rapscallion" (page 16)
+
 Same rules as Year Two with these additional rules:
 
 Place his worker on the 5-point Journey space instead of the 4.
@@ -175,10 +194,9 @@ During Rugwort's autumn Prepare for Season action, he kidnaps one of your worker
 
 Beat him in year three and the bards of Everdell sing of your triumph! The historian records your victory to be preserved and remembered for all time! The old rat Rugwort skulks away, leaving Everdell in peace... for now.
 
- 
+## Index (page 17)
 
-## Index (PAGE 17)
-### Critters
+### Critters (page 17)
 
 - Architect: At game end, worth 1 point for each of your leftover resin and pebbles, up to 6 points total.
 
@@ -227,8 +245,6 @@ Beat him in year three and the bards of Everdell sing of your triumph! The histo
 - Wife: Shares a space with a Husband, so combined they only take up 1 space in your city. At game end, worth 3 points if paired with a Husband. May only share space with 1 Husband.
 
 - Woodcarver: When played and during Production, you may pay up to 3 twigs to gain 1 point token for each.
-
- 
 
 ### Constructions (Page 19)
 
