@@ -16,20 +16,13 @@
 
 The most humble player goes first.
 
-<!-- > Player 1 takes 5 cards<br>
-> Player 2 takes 6 cards<br>
-> Player 3 takes 7 cards<br>
-> Player 4 takes 8 cards<br>
-
-There is no limit to the amount of resources a player may have during the game. If any of the resources run out, use something else as a substitute.The facedown discard pile will be formed here(The empty space in game board). -->
+<!-- There is no limit to the amount of resources a player may have during the game. If any of the resources run out, use something else as a substitute.The facedown discard pile will be formed here(The empty space in game board). -->
 
 ## HOW TO PLAY (page 7)
 
 Play proceeds clockwise. You will take turns performing one of the following actions. These actions may be performed in any order, but only one action may be taken per turn.
 
-<!-- - Place A Worker<br>
-- Or Play A Card<br>
-- Or Prepare For Season -->
+Place A Worker Or Play A Card Or Prepare For Season
 
 ### PLACE A WORKER (page 7)
 
