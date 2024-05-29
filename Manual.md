@@ -70,8 +70,6 @@ You may play one card. To play a card, you must pay the listed requirements into
 
 You will be playing these cards in front of you to form your city. There are two types of cards in the game: Critters and Constructions. You may have multiple copies of any Common card in your city, but you may only have one specific copy of any Unique card.
 
-#### Critters (page 9)
-
 You may pay the required cost in berries to play the Critter card, or if the Construction listed in the top left of the Critter card is already in your city, you may play the Critter card without paying the cost in berries.
 
 Important: When playing a Critter for free by using the related Construction, place an "occupied" token on the Construction. You may only do this once per Construction.
@@ -102,9 +100,41 @@ If a Meadow card is played, immediately replace it with a new card from the draw
 
 If the deck ever runs out, shuffle the discard pile to form a new deck.
 
-<!-- > Gain: take listed resources or point tokens from the general supply.
+Gain: take listed resources or point tokens from the general supply.
 
-> Pay: place listed resources from your supply into the general supply. -->
+Pay: place listed resources from your supply into the general supply.
+
+Point Token
+
+> Resembles a coin with a star in the center.
+
+End of game points
+
+> Resembles a coin with a star in the center and a number inside.
+
+Card
+
+> Appears as a brown card.
+
+Twig
+
+> Resembles a small twig.
+
+Resin
+
+> Resembles a piece of resin.
+
+Pebble
+
+> Resembles a small pebble.
+
+Berry
+
+> Resembles a berry.
+
+Any resource
+
+> Resembles a basket containing a Twig, Resin, Pebble, and Berry.
 
 ### PREPARE FOR SEASON (page 11)
 
@@ -132,7 +162,7 @@ You may find it easiest to add up the base value of each card, then come back an
 
 If there is a tie, the player who achieved the most Events wins. If there is still a tie, the player with the most leftover resources is the winner.
 
-### SCORING EXAMPLE (PAGE 14)
+### SCORING EXAMPLE (page 13)
 
 Base points for cards: 22
 
