@@ -50,9 +50,13 @@ The placement locations are only used in a four-player game. However, you may no
 
 ##### Destination Cards (page 8)
 
-You may place a worker on any Destination card in your city, or on a Destination card in another city that has an symbol, in which case the owner of the Destination gains 1 point token from the supply.
+You may place a worker on any Destination card in your city, or on a Destination card in another city that has an open symbol, in which case the owner of the Destination gains 1 point token from the supply.
+
+> The open symbol looks like a sign that displays the word "open."
 
 Example: If another player places their worker on the Post Office, the owner gains 1 point.
+
+> The Post Office is a Destination card. On the left side of the card, there is a symbol that resembles a sign displaying the word "open." The description is located at the bottom center of the card.
 
 ##### Events (page 8)
 
@@ -64,11 +68,15 @@ Achieved Events should be placed beside your city for scoring at the end of the 
 
 The Haven location is a shared space. There is no limit to the amount of workers that may be placed on it, even of the same color. By going here, you may discard any number of cards from your hand, and gain 1 of any resource for every 2 cards you discard.
 
+> The Haven location is situated at the bottom right of the game board. It is represented by a symbol that resembles a paw surrounded by stones.
+
 ##### Journey (page 8)
 
 In autumn only, you may send a worker on a journey. You must discard cards equal to the listed points of the Journey location you choose. The 5-point, 4-point, and 3-point locations are exclusive, and the 2-point location is shared. The deployed worker is worth the listed points at the end of the game.
 
-### PLAY A CARD (PAGE 9)
+> The Journey locations are situated on the bottom left side of the game board. From top to bottom, the locations are arranged in ascending order of points: the 2-point location is at the top, followed by the 3-point, 4-point, and 5-point locations.
+
+### PLAY A CARD (page 9)
 
 You may play one card. To play a card, you must pay the listed requirements into the general supply. Cards may be played from either the Meadow cards or from your hand.
 
