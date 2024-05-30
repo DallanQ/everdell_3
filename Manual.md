@@ -82,6 +82,14 @@ You may play one card. To play a card, you must pay the listed requirements into
 
 You will be playing these cards in front of you to form your city. There are two types of cards in the game: Critters and Constructions. You may have multiple copies of any Common card in your city, but you may only have one specific copy of any Unique card.
 
+#### Construction (page 9)
+
+> The construction cards display their requirements at the top left corner. The type, cards in the deck, and name are situated in the middle left section. Points are listed in the middle right. The card text is positioned in the bottom sections of the card.
+
+#### Critters (page 9)
+
+> The Critters cards display their requirements at the top left corner. The type, cards in the deck, and name are situated in the middle left section. Points are listed in the middle right. The card text is positioned in the bottom sections of the card.
+
 You may pay the required cost in berries to play the Critter card, or if the Construction listed in the top left of the Critter card is already in your city, you may play the Critter card without paying the cost in berries.
 
 Important: When playing a Critter for free by using the related Construction, place an "occupied" token on the Construction. You may only do this once per Construction.
