@@ -94,13 +94,23 @@ Your city has a maximum of 15 spaces to play cards into. Each card takes up one 
 
 - Tan Traveler: Activates once immediately when played. It never activates again.
 
+> The Tan Travel symbol looks like a bindle.
+
 - Green Production: Activates once immediately when played, and once during the Prepare for Season actions in spring and autumn.
+
+> The Green Production symbol resembles a miniature plant.
 
 - Red Destination: Activates when a worker is placed on it. Cards with the symbol may be visited by opponents.
 
+> The Red Destination symbol bears a resemblance to a paw print.
+
 - Blue Governance: Grants you bonuses after playing certain card types, and offers different ways to play cards for a discount.
 
+> The Blue Governance symbol looks like a scroll.
+
 - Purple Prosperity: Worth the base points and the listed bonus points at the end of the game.
+
+> The Purple Prosperity symbol looks like a flower.
 
 #### Drawing Cards (page 10)
 
