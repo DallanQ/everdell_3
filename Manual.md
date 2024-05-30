@@ -168,9 +168,15 @@ When you perform the Prepare for Season action, you alone bring back all of your
 
 In spring, you gain 1 new worker and activate all green Production cards in your city.
 
+> The spring season is a component of the Ever Tree, featuring the word "spring" inscribed upon it, alongside the depiction of a mouse symbol, all set against a backdrop of light green leaves.
+
 In summer, you gain 1 new worker. There is no Production in summer, but green cards still activate immediately if played during summer. Also, you may draw up to 2 Meadow cards when you prepare for summer.
 
+> The summer season is an element of the Ever Tree, displaying the word "summer" alongside a mouse symbol, set against a backdrop of dark green leaves.
+
 In autumn, you gain 2 workers and activate all green Production cards in your city.
+
+> The autumn season is a feature of the Ever Tree, showcasing the word "autumn" adjacent to a mouse symbol, set against a backdrop of yellow leaves.
 
 When preparing for the next season, new workers from the Ever Tree join your growing city. Gain your matching worker and activate the next season's listed bonus.
 
