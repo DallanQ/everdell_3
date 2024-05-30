@@ -36,6 +36,8 @@ To visit a location, place one of your workers on any available symbol and immed
 
 Example: Placing a worker on the second basic action space gains the player two twigs, and a card drawn from the deck.
 
+> The resources listed in the action spaces are indicated on a sign located on the left side of the action spaces.
+
 #### LOCATIONS TO VISIT INCLUDE (page 7)
 
 ##### Basic Action Spaces (page 7)
