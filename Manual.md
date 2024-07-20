@@ -130,41 +130,21 @@ If a Meadow card is played, immediately replace it with a new card from the draw
 
 If the deck ever runs out, shuffle the discard pile to form a new deck.
 
-Gain: take listed resources or point tokens from the general supply.
+#### Timing (page 10)
 
-Pay: place listed resources from your supply into the general supply.
+When a card is played, follow this sequence of actions, when applicable:
 
-Point Token
+1. Use "card playing ability" (Dungeon, Judge, Innkeeper, etc).
 
-> Resembles a coin with a star in the center.
+2. Pay resources or use occupied token.
 
-End of game points
+3. If the card comes from the Meadow, replenish the Meadow.
 
-> Resembles a coin with a star in the center and a number inside.
+4. Place the newly played card in your city. (If the played card effect removes another card from your city, that card is removed immediately before the new card placement.)
 
-Card
+5. Resolve newly played card effect.
 
-> Appears as a brown card.
-
-Twig
-
-> Resembles a small twig.
-
-Resin
-
-> Resembles a piece of resin.
-
-Pebble
-
-> Resembles a small pebble.
-
-Berry
-
-> Resembles a berry.
-
-Any resource
-
-> Resembles a basket containing a Twig, Resin, Pebble, and Berry.
+6. Resolve triggered effects (Courthouse, Shopkeeper, etc).
 
 ### PREPARE FOR SEASON (page 11)
 
